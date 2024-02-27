@@ -5,10 +5,18 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../APIGateapp/pom.xml" />
         <option value="$PROJECT_DIR$/../Orderservice/pom.xml" />
         <option value="$PROJECT_DIR$/../Productservice/pom.xml" />
-        <option value="$PROJECT_DIR$/../../New Work project 02/spring-boot-microservices-master/discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../InventorySerivce/pom.xml" />
+        <option value="$PROJECT_DIR$/../APIGateapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../microservices-07092023/StudentManagment/pom.xml" />
+        <option value="$PROJECT_DIR$/../AuthenticationService/pom.xml" />
+        <option value="$PROJECT_DIR$/../SkaPaymentGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../testZipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/../ConfigServer/pom.xml" />
+        <option value="$USER_HOME$/git/java8/pom.xml" />
+        <option value="$PROJECT_DIR$/../ServiceDiscovery/pom.xml" />
+        <option value="$PROJECT_DIR$/../DockerComposePractice/pom.xml" />
       </list>
     </option>
   </component>

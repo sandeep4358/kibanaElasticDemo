@@ -2,24 +2,40 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="order-service" />
-        <module name="discovery-server" />
-        <module name="APIGateapp" />
-        <module name="Productservice" />
         <module name="KibanaElasticLoadbalance" />
+        <module name="InventorySerivce" />
+        <module name="APIGateapp" />
+        <module name="testZipkin" />
+        <module name="SkaPaymentGateway" />
+        <module name="auth-service" />
+        <module name="DockerComposePractice" />
+        <module name="order-service" />
+        <module name="ConfigServer" />
+        <module name="CoreJava1.8" />
+        <module name="StudentManagment" />
+        <module name="Productservice" />
+        <module name="ServiceDiscovery" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="APIGateapp" options="-parameters" />
+      <module name="ConfigServer" options="-parameters" />
+      <module name="DockerComposePractice" options="-parameters" />
+      <module name="InventorySerivce" options="-parameters" />
       <module name="Productservice" options="-parameters" />
-      <module name="discovery-server" options="-parameters" />
+      <module name="ServiceDiscovery" options="-parameters" />
+      <module name="SkaPaymentGateway" options="-parameters" />
+      <module name="StudentManagment" options="-parameters" />
+      <module name="auth-service" options="-parameters" />
       <module name="order-service" options="-parameters" />
+      <module name="testZipkin" options="-parameters" />
     </option>
   </component>
 </project>
